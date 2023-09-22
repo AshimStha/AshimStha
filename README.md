@@ -1,4 +1,4 @@
-![Welcoming Leonardo](https://github.com/AshimStha/AshimStha.git)
+![Welcoming Leonardo](_readme/leo.gif)
 
 - 👋 Hi, I’m @AshimStha
 - 👀 I’m interested in frontend developing (backend also)
