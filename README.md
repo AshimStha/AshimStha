@@ -7,7 +7,7 @@
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 
 <p align="center">
-  <img src="link_to_your_banner_image" alt="Your Name Banner">
+  <img src="./_readme/banner.jpg" alt="banner-img">
 </p>
 
 <p align="center">I'm a [Your Profession or Interests] based in [Your Location]. 🌍</p>
