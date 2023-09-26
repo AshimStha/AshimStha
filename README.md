@@ -44,3 +44,9 @@ I am very good at driving a row-boat and I like hikes and treks.
     <img src="https://github-readme-stats.vercel.app/api?username=AshimStha&show_icons=true&theme=dark" alt="My GitHub Stats">
   </a>
 </p>
+
+---
+
+<p align="center">
+~~ Give Up! ~~
+</p>
