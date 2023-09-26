@@ -9,10 +9,21 @@
 
 ---
 
-## 💼 My Work
+<table>
+  <tr>
+    <td>
+      ## 💼 My Work
 
-- 🚀 Currently working on Github Readme 
-- 💡 Exploring Full-stack development
+     - 🚀 Currently working on Github Readme 
+     - 💡 Exploring Full-stack development
+
+    </td>
+    <td>
+     ![Walking bit cat](./_readme/cat.gif)
+    </td>
+  </tr>
+</table>
+
 
 ## 🌱 I'm Currently Learning
 
