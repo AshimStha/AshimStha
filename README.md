@@ -12,14 +12,15 @@
 <table>
   <tr>
     <td>
-      ## 💼 My Work
 
-     - 🚀 Currently working on Github Readme 
-     - 💡 Exploring Full-stack development
+## 💼 My Work
+
+- 🚀 Currently working on Github Readme 
+- 💡 Exploring Full-stack development
 
     </td>
     <td>
-     ![Walking bit cat](./_readme/leo.gif)
+     ![Walking bit cat](./_readme/cat.gif)
     </td>
   </tr>
 </table>
