@@ -1,17 +1,26 @@
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 
 <p align="center">
-  <img src="./_readme/banner.jpg" alt="banner-img">
+  <img src="./_readme/banner.jpg" alt="banner-img" height="200px">
 </p>
 
 <p align="center">I'm a Student at Humber 🌍</p>
 
-| 💼 My Work |🌱 I'm Currently Learning|🔧 Tools & Technologies|
-|-------|--------|--------|
-| - 🚀 Currently working on [Your Current Project] | - [A Technology or Skill You're Learning] | - 🖥️ [List of Programming Languages, Tools, and Technologies]|
-| - 💡 Exploring [Your Interests/Hobbies] | - [Another Technology or Skill You're Learning] |- 🎮 [Your Favorite Video Games]|
+## 💼 My Work
 
+- 🚀 Currently working on [Your Current Project]
+- 💡 Exploring [Your Interests/Hobbies]
 
+## 🌱 I'm Currently Learning
+
+- [A Technology or Skill You're Learning]
+- [Another Technology or Skill You're Learning]
+
+## 🔧 Tools & Technologies
+
+- 🖥️ [List of Programming Languages, Tools, and Technologies]
+- 📚 [Books You're Currently Reading]
+- 🎮 [Your Favorite Video Games]
 
 ## 📫 How to Reach Me
 
