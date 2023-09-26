@@ -14,7 +14,7 @@
 - 🚀 Currently working on Github Readme 
 - 💡 Exploring Full-stack development
 
-<img align="right" src="./_readme/cat.gif" alt="walking bit cat">
+<img align="right" src="./_readme/cat.gif" alt="walking bit cat" height="300px">
 
 ## 🌱 I'm Currently Learning
 
