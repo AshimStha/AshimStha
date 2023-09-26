@@ -5,35 +5,35 @@
 ---
 
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
-<p align="center">I'm a Student at Humber 🌍</p>
+<p align="center">I'm a Student at Humber 🌍 and currently a Web Development Student.</p>
 
 ---
 
 ## 💼 My Work
 
-- 🚀 Currently working on [Your Current Project]
-- 💡 Exploring [Your Interests/Hobbies]
+- 🚀 Currently working on Github Readme 
+- 💡 Exploring Full-stack development
 
 ## 🌱 I'm Currently Learning
 
-- [A Technology or Skill You're Learning]
-- [Another Technology or Skill You're Learning]
+- Full-stack development
+- Teamwork and time management
 
 ## 🔧 Tools & Technologies
 
-- 🖥️ [List of Programming Languages, Tools, and Technologies]
-- 📚 [Books You're Currently Reading]
-- 🎮 [Your Favorite Video Games]
+- 🖥️ HTML, CSS, MySQL, C#, JS, Github, Docker, CLI, Markdown
+- 📚 1984 by George Orwell
+- 🎮 Genshin Impact
 
 ## 📫 How to Reach Me
 
-- 📧 Email: [Your Email Address]
-- 💬 [LinkedIn](https://www.linkedin.com/in/your_username)
-- 🐦 [Twitter](https://twitter.com/your_username)
+- 📧 Email: ashimshrestha125@gmail.com
+- 💬 [LinkedIn](https://www.linkedin.com/in/ashim-shrestha-72a16a260/)
+- 🐦 [Twitter](https://twitter.com/AshimSh72784732)
 
 ## 🚀 Fun Fact
 
-[An interesting and fun fact about yourself]
+I am very good at driving a row-boat and I like hikes and treks.
 
 <p align="center">
   <a href="https://github.com/AshimStha">
