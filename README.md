@@ -1,6 +1,8 @@
 <p align="center">
-![Welcoming Leonardo](_readme/leo.gif)
+<img src="./_readme/leo.gif" alt="Image Description" width="600" height="300">
 </p>
+
+![Welcoming Leonardo](_readme/leo.gif)
 
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 
