@@ -6,16 +6,11 @@
 
 <p align="center">I'm a Student at Humber 🌍</p>
 
-| ## 💼 My Work |   URL  |
+| 💼 My Work |   🌱 I'm Currently Learning  |
 |-------|--------|
-| - 🚀 Currently working on [Your Current Project]|
-| - 💡 Exploring [Your Interests/Hobbies]|
+| - 🚀 Currently working on [Your Current Project]| - [A Technology or Skill You're Learning]|
+| - 💡 Exploring [Your Interests/Hobbies]| - [Another Technology or Skill You're Learning]|
 
-
-## 🌱 I'm Currently Learning
-
-- [A Technology or Skill You're Learning]
-- [Another Technology or Skill You're Learning]
 
 ## 🔧 Tools & Technologies
 
