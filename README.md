@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 
 <p align="center">
-  <img src="./_readme/banner.jpg" alt="banner-img" height="200px">
+  <img src="./_readme/banner.jpg" alt="banner-img">
 </p>
 
 <p align="center">I'm a Student at Humber 🌍</p>
