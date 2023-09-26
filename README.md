@@ -6,12 +6,10 @@
 
 <p align="center">I'm a Student at Humber 🌍</p>
 
-|    Title                                             |                           Title                          |
-|======================================================|==========================================================|
-| ## 💼 My Work                                         |                                                         |
-|                                                       |                                                         | 
-| - 🚀 Currently working on [Your Current Project]      |                                                          |
-| - 💡 Exploring [Your Interests/Hobbies]               |                                                          |
+| ## 💼 My Work |   URL  |
+|-------|--------|
+| - 🚀 Currently working on [Your Current Project]|
+| - 💡 Exploring [Your Interests/Hobbies]|
 
 
 ## 🌱 I'm Currently Learning
