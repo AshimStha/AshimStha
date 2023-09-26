@@ -1,3 +1,5 @@
+<img align="center" src="./_readme/leo.gif" alt="Image Description" width="300" height="200">
+
 ![Welcoming Leonardo](_readme/leo.gif)
 
 <h1 align="center">👋 Hello, I'm [Your Name]!</h1>
@@ -45,9 +47,3 @@
 </p>
 
 <!-- Add any additional sections, images, or customizations you want -->
-
----
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshimStha&show_icons=true&theme=dark)](https://github.com/AshimStha)
-
-<!-- Add any additional sections or customizations you want -->
