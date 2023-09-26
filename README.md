@@ -39,8 +39,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your_username">
-    <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=dark" alt="My GitHub Stats">
+  <a href="https://github.com/AshimStha">
+    <img src="https://github-readme-stats.vercel.app/api?username=AshimStha&show_icons=true&theme=dark" alt="My GitHub Stats">
   </a>
 </p>
 
