@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./_readme/leo.gif" alt="Image Description" width="900" height="450">
+<img src="./_readme/leo.gif" alt="Image Description" width="850" height="400">
 </p>
 
 <!-- ![Welcoming Leonardo](_readme/leo.gif) -->
