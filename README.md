@@ -9,22 +9,12 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-
 ## 💼 My Work
 
 - 🚀 Currently working on Github Readme 
 - 💡 Exploring Full-stack development
 
-    </td>
-    <td>
-     ![Walking bit cat](./_readme/cat.gif)
-    </td>
-  </tr>
-</table>
-
+<img src="./_readme/cat.gif" alt="walking bit cat">
 
 ## 🌱 I'm Currently Learning
 
