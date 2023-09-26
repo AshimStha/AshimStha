@@ -6,17 +6,12 @@
 
 <p align="center">I'm a Student at Humber 🌍</p>
 
-| 💼 My Work |   🌱 I'm Currently Learning  |
+| 💼 My Work |🌱 I'm Currently Learning|🔧 Tools & Technologies|
 |-------|--------|
-| - 🚀 Currently working on [Your Current Project]| - [A Technology or Skill You're Learning]|
-| - 💡 Exploring [Your Interests/Hobbies]| - [Another Technology or Skill You're Learning]|
+| - 🚀 Currently working on [Your Current Project] | - [A Technology or Skill You're Learning] |- 🖥️ [List of Programming Languages, Tools, and Technologies]|
+| - 💡 Exploring [Your Interests/Hobbies] | - [Another Technology or Skill You're Learning] |- 🎮 [Your Favorite Video Games]|
 
 
-## 🔧 Tools & Technologies
-
-- 🖥️ [List of Programming Languages, Tools, and Technologies]
-- 📚 [Books You're Currently Reading]
-- 🎮 [Your Favorite Video Games]
 
 ## 📫 How to Reach Me
 
