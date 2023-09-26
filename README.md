@@ -19,7 +19,7 @@
 
     </td>
     <td>
-     ![Walking bit cat](./_readme/cat.gif)
+     ![Walking bit cat](./_readme/leo.gif)
     </td>
   </tr>
 </table>
