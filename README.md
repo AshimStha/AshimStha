@@ -1,16 +1,10 @@
-<p align="center">
-<img src="./_readme/leo.gif" alt="Image Description" width="850" height="400">
-</p>
-
-<!-- ![Welcoming Leonardo](_readme/leo.gif) -->
-
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 
 <p align="center">
-  <img src="./_readme/banner.jpg" alt="banner-img">
+  <img src="./_readme/banner.jpg" alt="banner-img" height="200px">
 </p>
 
-<p align="center">I'm a [Your Profession or Interests] based in [Your Location]. 🌍</p>
+<p align="center">I'm a Student at <b>Humber</b> 🌍</p>
 
 ## 💼 My Work
 
