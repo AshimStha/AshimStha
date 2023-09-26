@@ -5,6 +5,8 @@
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 <p align="center">I'm a Student at Humber 🌍</p>
 
+---
+
 ## 💼 My Work
 
 - 🚀 Currently working on [Your Current Project]
