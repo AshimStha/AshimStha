@@ -2,6 +2,8 @@
   <img src="./_readme/banner2.png" alt="banner-img">
 </p>
 
+---
+
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 <p align="center">I'm a Student at Humber 🌍</p>
 
