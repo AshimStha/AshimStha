@@ -1,8 +1,8 @@
-<img align="center" src="./_readme/leo.gif" alt="Image Description" width="300" height="200">
-
+<p align="center">
 ![Welcoming Leonardo](_readme/leo.gif)
+</p>
 
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
 
 <p align="center">
   <img src="link_to_your_banner_image" alt="Your Name Banner">
