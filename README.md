@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./_readme/banner.jpg" alt="banner-img">
+  <img src="./_readme/banner2.png" alt="banner-img">
 </p>
 
 <h1 align="center">👋 Hello, I'm Ashim Shrestha!</h1>
