@@ -31,6 +31,8 @@
 - 💬 [LinkedIn](https://www.linkedin.com/in/ashim-shrestha-72a16a260/)
 - 🐦 [Twitter](https://twitter.com/AshimSh72784732)
 
+---
+
 ## 🚀 Fun Fact
 
 I am very good at driving a row-boat and I like hikes and treks.
