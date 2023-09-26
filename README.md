@@ -9,26 +9,10 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    ## Section 1: Image
+## 💼 My Work
 
-    ## 💼 My Work
-
-     - 🚀 Currently working on Github Readme 
-     - 💡 Exploring Full-stack development
-
-    
-  </div>
-
-  <div style="flex: 1;">
-    ## Section 2: Text
-
-    ![Walking Bit Cat](https://giphy.com/embed/wwg1suUiTbCY8H8vIA)
-
-  </div>
-</div>
-
+- 🚀 Currently working on Github Readme 
+- 💡 Exploring Full-stack development
 
 ## 🌱 I'm Currently Learning
 
