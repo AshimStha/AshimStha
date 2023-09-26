@@ -4,12 +4,15 @@
   <img src="./_readme/banner.jpg" alt="banner-img" height="200px">
 </p>
 
-<p align="center">I'm a Student at <b>Humber</b> 🌍</p>
+<p align="center">I'm a Student at Humber 🌍</p>
 
-## 💼 My Work
+|    Title                                             |                           Title                          |
+|======================================================|==========================================================|
+| ## 💼 My Work                                         |                                                         |
+|                                                       |                                                         | 
+| - 🚀 Currently working on [Your Current Project]      |                                                          |
+| - 💡 Exploring [Your Interests/Hobbies]               |                                                          |
 
-- 🚀 Currently working on [Your Current Project]
-- 💡 Exploring [Your Interests/Hobbies]
 
 ## 🌱 I'm Currently Learning
 
