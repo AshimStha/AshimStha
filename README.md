@@ -25,7 +25,7 @@
 
 - 🖥️ HTML, CSS, MySQL, C#, JS, Github, Docker, CLI, Markdown
 - 📚 1984 by George Orwell
-- 🎮 Genshin Impact
+- 🎮 Genshin Impact && Spiderman 2
 
 ## 📫 How to Reach Me
 
