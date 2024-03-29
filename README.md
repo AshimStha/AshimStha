@@ -22,7 +22,7 @@
 - The MERN stack
 - Teamwork and time management
 
-## 🔧 Tools & Technologies
+## 🔧 Books and Games
 
 - 📚 1984 by George Orwell
 - 🎮 Genshin Impact && Spiderman 2
